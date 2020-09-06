@@ -1,0 +1,4 @@
+echo "g++  $*  -I/home/ssrivast/work/cpp/google_benchmark_lib/include/benchmark -lbenchmark -L/home/ssrivast/work/cpp/google_benchmark_lib/build/src -lpthread"
+ g++  $*  -I/home/ssrivast/work/cpp/google_benchmark_lib/include/benchmark -lbenchmark -L/home/ssrivast/work/cpp/google_benchmark_lib/build/src -lpthread
+
+#g++ $(< flag) $* -lbenchmark
