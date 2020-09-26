@@ -53,6 +53,8 @@
         "streambuf": "cpp",
         "typeinfo": "cpp",
         "thread": "cpp",
-        "future": "cpp"
+        "future": "cpp",
+        "variant": "cpp",
+        "any": "cpp"
     }
 }
